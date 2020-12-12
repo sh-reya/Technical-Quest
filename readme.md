@@ -10,7 +10,7 @@
   Our system can ping to any other system only if its IP is present in the range of IPs in the routing table.
   However, according to need, we can maniputable the table. What is the process of doing? Step by Step process is available in the folder named day 52
 
- #DevOps
+ # DevOps
   The new terminologies that we came across are:
   - [x] Handlers
   - [x] Notify
