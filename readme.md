@@ -1,6 +1,6 @@
-# Day-wise content of my Technical Training:
+## Day-wise content of my Technical Training:
  
- Day 52:
+ # Day 52:
  ### IP, netmask, and gateways
  How can we make our system ping to google but not to FB without involving firewall?
  Ans: By making some minor manipulation in the routing table.
