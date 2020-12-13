@@ -20,4 +20,4 @@
 
   - command: "date1234"
      ignore_errors: yes
-  Now, even if the date command will not run, as it is wrong, our ansible playbook wil ignore this error.
+  Now, even if the date command will not run, as it is wrong, our ansible playbook wil ignore this error!!!
